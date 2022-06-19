@@ -1,0 +1,5 @@
+C   8230123345450 Simons      Jenny    R  0     12 
+C   3873472785863 Cartman     Eric     N  750   18 
+C   4834324308675 McCormick   Kenny    R  0     20 
+O   1384349045225 Broflovski  Kyle     -  6
+O   5627238253456 Marsh       Stan     T  3
